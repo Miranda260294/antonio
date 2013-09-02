@@ -1,8 +1,12 @@
 #include
 #include
-
-main();
+main()
 {
-int a,b,c;
-pintf("dame el primer numero");
+int a, b,c;
+
+printf("Bienvenido a suma de dos numeros\ndame el primer numero ");
 scanf("%d",&a);
+getch();
+return 0;
+
+}
