@@ -1,0 +1,8 @@
+#include
+#include
+
+main();
+{
+int a,b,c;
+pintf("dame el primer numero");
+scanf("%d",&a);
